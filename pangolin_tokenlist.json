@@ -7,7 +7,7 @@
     "minor": 9,
     "patch": 0
   },
-  "timestamp": "2024-02-18T13:10:00+00:00",
+  "timestamp": "2025-02-18T13:10:00+00:00",
   "tokens": [
     {
       "chainId": 1351057110,
@@ -2144,14 +2144,6 @@
       "name": "Waifu",
       "symbol": "WAIFU",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xFF24003428Fb2E969C39EdEe4e9F464b0b78313d/logo_48.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x1c7c53aa86B49A28C627B6450091998e447A42f9",
-      "decimals": 18,
-      "name": "VELVET AI",
-      "symbol": "VELAI",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x1c7c53aa86B49A28C627B6450091998e447A42f9/logo_48.png"
     },
     {
       "chainId": 43114,
